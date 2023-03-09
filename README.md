@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kangmaup
-- 👀 I’m interested in Wordpress & Web Developer
+- 👀 I’m interested in BackEnd Developer
 - 🌱 I’m currently learning NodeJS
 - 💞️ My Portofolio in https://www.linkedin.com/in/ma-ruf-aldi-oktava/
 - 📫 How to reach me in marufaldioktava@gmail.com
