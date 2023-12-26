@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kangmaup
-- 👀 I’m interested in BackEnd Developer
-- 🌱 I’m currently learning NodeJS
-- 💞️ My Portofolio in https://www.linkedin.com/in/ma-ruf-aldi-oktava/
+- 👀 I’m BackEnd Developer
+- 🌱 I’m currently work in Wiratek
+<!---- 💞️ My Portofolio in https://www.linkedin.com/in/ma-ruf-aldi-oktava/--->
 - 📫 How to reach me in marufaldioktava@gmail.com
 
 <!---
