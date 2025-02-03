@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains&pause=1000&color=33FF33&center=false&width=435&lines=I'm+Ma'ruf+Aldi;This+is..;My+Github)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @kangmaup
 - 👀 I’m BackEnd Developer
 - 🌱 I’m currently work in ID Solution
 - 📫 How to reach me in marufaldioktava@gmail.com
 <!---- 💞️ My Portofolio in https://www.linkedin.com/in/ma-ruf-aldi-oktava/--->
-
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 <!---
 kangmaup/kangmaup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
