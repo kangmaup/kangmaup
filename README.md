@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kangmaup&rank=-A,-A)](https://github.com/kangmaup)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kangmaup&theme=aura_dark)
 <h2 align="left" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
