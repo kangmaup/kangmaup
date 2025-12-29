@@ -18,9 +18,16 @@ You can click the Preview link to take a look at your changes.
   <img alt="github contribution grid snake animation" src="https://github.com/kangmaup/kangmaup/blob/output/github-contribution-grid-snake.svg?">
 </picture>
 
+<!---[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kangmaup&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kangmaup&rank=-A,-A)](https://github.com/kangmaup)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kangmaup&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kangmaup&theme=aura_dark)--->
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kangmaup&layout=compact&theme=dracula" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kangmaup&theme=aura_dark" width="48%" />
+</p>
 <h2 align="left" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
