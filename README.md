@@ -38,6 +38,8 @@ I believe good engineering is about:
 **Backend**
 - Go (Fiber)
 - Laravel / PHP
+- NestJs
+- ExpressJS
 - REST API design
 
 **Database**
